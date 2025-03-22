@@ -1,5 +1,6 @@
 @charset "UTF-8";
-
+@media screen and (max-width: 1024px) and (min-width: 481px) {
+	
 
 #encabezado {
 	margin: 0px auto;
@@ -89,4 +90,4 @@ nav ul li a {
 
 nav ul li a:hover {	color: #AAA;}
 
-
+}
