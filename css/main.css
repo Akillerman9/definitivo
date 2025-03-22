@@ -3,11 +3,9 @@
 			p.paginas{background-image: url('../imagenes/header_barralat.png'); font-family: "Cambria"; color: white; font-weight: bold; font-size: 80%; text-align: left; margin-left: 13px;}
 			#contenedor {width: 100%; height: 100%;}
 			#cabecera {width: 100%; text-align: center;}
-			#contenido {float: left; width: 65%;}
 			#paginas {float: left; width: 35%;}
 			#pie {width: 100%; text-align: center;}
 			img.logos {width: 175px; height: 60px;}
 			div.imagenes{text-align: center;}
-			img.noticias {width: 830px; height: 400px;}
 			p.pie{font-family: "Cambria"; font-weight: bold; color:: #189ED7; font-size: 80%;}
 
